@@ -1,0 +1,16 @@
+# Laser
+
+## Que es una laser 
+
+Una impresora láser es una máquina que utiliza la tecnología láser para imprimir imágenes en el papel, en lugar de la impresión tradicional de tinta sobre papel.
+
+La impresora láser basa su funcionamiento en un láser que, a través de impulsos eléctricos, graba la imagen con la impresora laser que luego es embebido en tinta por el depósito del tóner,
+y luego se transfiere al papel por un proceso que combina el calor y la presión formando una impresión de calidad en pocos segundos.
+
+Lo que he hecho con la laser ha sido personalizar la funda de mi mobil con un leon que destacaba las linias de las figuras del leon pero sin color es decir solo ponia
+las linias de el leon, tambien he personalizado para mi familia con sus nombre con un trozo de madera de color negro.
+
+## Onshape 
+Que es Onshape?
+
+Onshape sirve para diseñar lo que tu tienes en la mente con un diseño mas especifico que 
