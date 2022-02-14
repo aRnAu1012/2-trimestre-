@@ -23,6 +23,6 @@ Para la fabricación de moldes se siguen estos pasos:
 6-Se pule si es necesario.
 
 
--Para que sirve un molde?
+- Para que sirve un molde?
 
 Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, como es el caso de la joyería o la industria seriada de juguetes y otros ...
