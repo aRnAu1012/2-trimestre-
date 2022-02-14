@@ -2,11 +2,11 @@
 
 ![moldes](https://github.com/aRnAu1012/2-trimestre-/blob/main/moldes.jpeg)
 
-- Que es un molde?
+### Que es un molde?
 
 Un molde es una pieza, o un conjunto de piezas acopladas, interiormente huecas pero con los detalles e improntas exteriores del futuro sólido que se desea obtener.
 
-- Como se hace un molde ?
+### Como se hace un molde ?
 
 Para la fabricación de moldes se siguen estos pasos:
 
@@ -23,11 +23,11 @@ Para la fabricación de moldes se siguen estos pasos:
 6-Se pule si es necesario.
 
 
-- Para que sirve un molde?
+### Para que sirve un molde?
 
 Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, como es el caso de la joyería o la industria seriada de juguetes y otros ...
 
-Como se haven moldes con impresoras 3D?
+### Como se haven moldes con impresoras 3D?
 
 1- Diseñe el molde teniendo en cuenta el diseño y las dimensiones adecuadas.
     
