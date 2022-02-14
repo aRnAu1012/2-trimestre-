@@ -3,7 +3,8 @@
 Un molde es una pieza, o un conjunto de piezas acopladas, interiormente huecas pero con los detalles e improntas exteriores del futuro sólido que se desea obtener.
 
 - Como se hace un molde ?
-Para la fabricación de moldes se siguen los estos pasos:
+
+Para la fabricación de moldes se siguen estos pasos:
 
 1-Se diseña la pieza.
     
