@@ -49,6 +49,7 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, 
 
 ### Spinner 
 
+![Spinner](https://github.com/aRnAu1012/2-trimestre-/blob/main/spinner.png)
 
     
     
