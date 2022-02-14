@@ -26,3 +26,39 @@ Para la fabricación de moldes se siguen estos pasos:
 - Para que sirve un molde?
 
 Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, como es el caso de la joyería o la industria seriada de juguetes y otros ...
+
+Como se haven moldes con impresoras 3D?
+
+1- Diseñe el molde teniendo en cuenta el diseño y las dimensiones adecuadas.
+    
+2- Imprime el molde- asegúrate que las capas estén orientadas en la misma dirección en la que el polímero fluirá dentro del molde.
+    
+3- Acabado opcional. La mayoría de estos moldes no necesitan post procesado.
+    
+4- Monta el molde. Coloca el molde dentro de la máquina de inyección.
+    
+5- Fabrica tu prototipo- separa las partes del molde y extrae la pieza.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
