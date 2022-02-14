@@ -1,5 +1,9 @@
 ## Moldes 
+
+![moldes](https://github.com/aRnAu1012/2-trimestre-/blob/main/moldes.jpeg)
+
 - Que es un molde?
+
 Un molde es una pieza, o un conjunto de piezas acopladas, interiormente huecas pero con los detalles e improntas exteriores del futuro sólido que se desea obtener.
 
 - Como se hace un molde ?
