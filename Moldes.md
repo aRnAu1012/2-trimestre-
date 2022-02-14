@@ -46,6 +46,10 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, 
 ### Moldes onshape 
 
 ![moldes onshape](https://github.com/aRnAu1012/2-trimestre-/blob/main/moldes%20onshape.png)
+
+### Spinner 
+
+
     
     
     
