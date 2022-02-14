@@ -39,7 +39,9 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas, 
     
 5- Fabrica tu prototipo separa las partes del molde y extrae la pieza.
     
-    
+### Moldes tinkercad 
+
+![moldes tinckercad](https://github.com/aRnAu1012/2-trimestre-/blob/main/Captura%20de%20pantalla%20de%202022-02-14%2010-05-21.png)
     
     
     
