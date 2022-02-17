@@ -4,5 +4,5 @@
 
 ![3D](https://github.com/aRnAu1012/2-trimestre-/blob/main/3D.MD)
 
-
+![CNC](https://github.com/aRnAu1012/2-trimestre-/blob/main/CNC.MD)
 
