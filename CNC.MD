@@ -3,7 +3,7 @@
 ![CNC](https://github.com/aRnAu1012/2-trimestre-/blob/main/CNC.png)
 
 
-### Que es un CNC?
+### Que es una CNC?
 
 ### Para que sirve?
 
