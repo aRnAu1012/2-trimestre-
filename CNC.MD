@@ -1,5 +1,7 @@
 ## CNC
 
+![CNC](https://github.com/aRnAu1012/2-trimestre-/blob/main/CNC.png)
+
 ### Que es un CNC?
 
 Se trata de un proceso en que se utiliza una computadora para controlar y monitorizar los movimientos de una máquina herramienta que está siendo operada mediante comandos programados en un medio de almacenaje.
