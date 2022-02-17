@@ -38,6 +38,7 @@ La fabricación digital consiste en el uso de un sistema integrado y asistido po
 
 Es empleada para que realice cortes,grabados,tallados, moldeados, perfiles, canales, contornos, biselados, perforaciones o barrenados. Logrando perfectos detalles, excelente acabado sin dañar el material.
 
+![CNC grabados ](https://github.com/aRnAu1012/2-trimestre-/blob/main/maxresdefault.jpg)
 
 
 
