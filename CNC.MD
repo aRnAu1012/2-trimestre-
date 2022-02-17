@@ -27,6 +27,8 @@ Es un sistema que permite controlar en todo momento la posición de un elemento 
 
 La fabricación digital consiste en el uso de un sistema integrado y asistido por ordenador compuesto por herramientas de simulación, visualización en 3D, análisis y colaboración con el objetivo de crear definiciones de procesos de producto y de fabricación simultáneamente.
 
+![Fabricacion Digital](https://github.com/aRnAu1012/2-trimestre-/blob/main/img7.jpg)
+
 
 
 
