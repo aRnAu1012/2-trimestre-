@@ -34,6 +34,27 @@ La fabricación digital consiste en el uso de un sistema integrado y asistido po
 
 
 
-
-
 ### Que cosas puedes hacer con una CNC?
+
+Es empleada para que realice cortes,grabados,tallados, moldeados, perfiles, canales, contornos, biselados, perforaciones o barrenados. Logrando perfectos detalles, excelente acabado sin dañar el material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
