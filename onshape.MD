@@ -25,6 +25,7 @@ Línea geométrica que no puede encontrarse nunca con otra por más que se prolo
 
 
 ### 4-Tangente:
+![Tangente](https://github.com/aRnAu1012/2-trimestre-/blob/main/tangente.png)
 
 Que toca otra línea o plano en algún punto sin llegar a cortarla.
 
