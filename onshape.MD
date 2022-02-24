@@ -19,6 +19,7 @@ Los círculos, tubos, ejes cilíndricos, discos y esferas pueden ser concéntric
 
 
 ### 3-Paralela:
+![Paralela](https://github.com/aRnAu1012/2-trimestre-/blob/main/paralela.png)
 
 Línea geométrica que no puede encontrarse nunca con otra por más que se prolongue, porque todos los puntos de una están a la misma distancia de la otra.
 
