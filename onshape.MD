@@ -10,6 +10,7 @@ Es cuando coincide con otras linias en un mismo cuadrado y que se superpone a ot
 
 
 ### 2-Concentrico:
+![Concentrico](https://github.com/aRnAu1012/2-trimestre-/blob/main/Concentrico%20.png)
 
 Los objetos concéntricos comparten el mismo centro, eje u origen.
 
@@ -18,6 +19,7 @@ Los círculos, tubos, ejes cilíndricos, discos y esferas pueden ser concéntric
 
 
 ### 3-Paralela:
+
 Línea geométrica que no puede encontrarse nunca con otra por más que se prolongue, porque todos los puntos de una están a la misma distancia de la otra.
 
 
