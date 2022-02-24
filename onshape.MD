@@ -33,34 +33,42 @@ Que toca otra línea o plano en algún punto sin llegar a cortarla.
 
 
 ### 5-Horizontal:
+![Horizontal](https://github.com/aRnAu1012/2-trimestre-/blob/main/horizontal.png)
 
 Que es paralelo a la línea imaginaria del horizonte o tiene todos sus puntos a la misma altura
 
 
 
 ### 6-Vertical:
+![Vertical](https://github.com/aRnAu1012/2-trimestre-/blob/main/vertical.png)
+
 Que es perpendicular al plano del horizonte o está situado en su posición mayor en esa perpendicular.
 
 
 
 ### 7-Perpendicular:
+![Perpendicular](https://github.com/aRnAu1012/2-trimestre-/blob/main/Perpendicular.png)
 
 Que forma un ángulo recto con otra línea u otro plano.
 
 
 
 ### 8-Igual:
+![Igual](https://github.com/aRnAu1012/2-trimestre-/blob/main/igual.png)
 Es cuando dos linias son exactamente iguales una y la otra ,con medidas exactas.
 
 
 ### 9-Punto Medio:
+![Punto medio](https://github.com/aRnAu1012/2-trimestre-/blob/main/Punto%20medio%20.png)
 Es el punto que se encuentra a la misma distancia de otros dos puntos cualquiera o extremos de un segmento.
 
 
 ### 10-Simetrico :
+![Simetrico](https://github.com/aRnAu1012/2-trimestre-/blob/main/Simetrico.png)
 Es para que dos entidades del mismo tipo sean simetricas , relativas a una linia , un plano o artista linia.
 
 
 ### 11-Fijar:
+![Fijar](https://github.com/aRnAu1012/2-trimestre-/blob/main/fijar.png)
 
-Es cuando necesitas Fijar una figura para que no se pueda mover en ningun momento.
+Es cuando necesitas fijar una figura para que no se pueda mover en ningun momento.
