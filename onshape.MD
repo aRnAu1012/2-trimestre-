@@ -3,8 +3,8 @@
 
 ![Restinciones](https://github.com/aRnAu1012/2-trimestre-/blob/main/Restinciones.png)
 
-![Coincidente](https://github.com/aRnAu1012/2-trimestre-/blob/main/Coincidente.png)
 ### 1-Coincidente:
+![Coincidente](https://github.com/aRnAu1012/2-trimestre-/blob/main/Coincidente.png)
 
 Es cuando coincide con otras linias en un mismo cuadrado y que se superpone a otra línea o plano en todos sus puntos. 
 
